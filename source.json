@@ -8,7 +8,7 @@
       "developerName": "Skate 3 Recompiled",
       "subtitle": "Locked 60fps. Bring your own copy of the game.",
       "localizedDescription": "A static recompilation of Skate 3 for iOS, rendering through Vulkan on MoltenVK. Runs at a locked 60fps on an iPhone 13 mini (A15): median frame 16.7ms, 95th percentile 16.8-17.8ms.\n\nYOU MUST SUPPLY THE GAME. This app contains no game content and will not start without it.\n\nAFTER INSTALLING:\n1. Connect your iPhone to a computer and open Finder > your iPhone > Files > Skate 3 (on Windows, iTunes > File Sharing).\n2. Drop in a 'game' folder containing your own disc files. That is about 6GB, so allow a few minutes.\n3. Add Title Update 3, the free update EA published on Xbox Live - it is not on the disc and the game will not run without it. The app can download it for you: choose \"Install the title update\" and then Download. If you would rather supply it yourself, copy the package into the same Skate 3 folder and it is found automatically.\n\nThe setup screens walk you through steps 2 and 3.\n\nOn-screen touch controls appear when no controller is attached; MFi and Bluetooth controllers are picked up automatically. Press Start + Select together for a performance menu that shows your frame rate and what is limiting it.\n\nRequires iOS 16.0 or later.",
-      "iconURL": "",
+      "iconURL": "https://avatars.githubusercontent.com/andrewnakas",
       "tintColor": "1F1F1F",
       "category": "games",
       "screenshots": [],
